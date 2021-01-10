@@ -1,0 +1,41 @@
+
+img {
+    width: 60%;
+    margin: 1px;
+    position: relative;
+    top: 15px;
+    left: 300px;
+}
+
+#list {
+    list-style: none;
+    text-align: right;
+    list-style-type: none;
+}
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    font-family: Source Code Pro, monospace;;
+    font-weight: bold;
+    color:#6d6875;
+    font-style: italic;
+    position: relative;
+    right: 25%;
+    bottom: 100px;
+    margin :10px 0;
+    display: block;
+    font-size: smaller;
+}
+
+#name {
+    font-family:Source Code Pro, monospace;
+    font-size: larger;
+    text-align: right;
+    display: block;
+    top:20px;
+    right: 35px;
+    position: relative;
+}
